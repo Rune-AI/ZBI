@@ -2,7 +2,7 @@
 
 Made for the Ai in games summer school game jam 2022
 
-[Video link](https://youtu.be/dX2RPorHm2c)
+[Trailer](https://youtu.be/dX2RPorHm2c)
 
 Welcome to the Diffusion Gallery!
 
